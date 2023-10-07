@@ -1,0 +1,11 @@
+{
+  "name": "learn-socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@types/ws": "^8.5.5",
+    "ws": "^8.13.0"
+  }
+}
